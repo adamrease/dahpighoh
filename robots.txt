@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://meigoorie.zulus.me/sitemap.xml
